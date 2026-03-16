@@ -16,7 +16,7 @@ function MovieCard({ movie }) {
           />
         ) : (
           <figure className="movie-card__no-image">
-            <span>Ingen bilde</span>
+            <span>aiii noo picture</span>
           </figure>
         )}
         <header className="movie-card__info">
